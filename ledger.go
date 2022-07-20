@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/zondax/hid"
+	"github.com/leefaz/hid"
 )
 
 const (
